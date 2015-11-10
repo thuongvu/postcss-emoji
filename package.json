@@ -1,0 +1,33 @@
+{
+  "name": "postcss-emoji",
+  "version": "1.0.0",
+  "description": "PostCSS plugin that converts CSS selectors into emojis",
+  "keywords": [
+    "postcss",
+    "css",
+    "postcss-plugin",
+    "emoji",
+    "processor"
+  ],
+  "author": "thuongvu <thuongvuho@gmail.com>",
+  "license": "MIT",
+  "repository": "thuongvu/postcss-emoji",
+  "bugs": {
+    "url": "https://github.com/thuongvu/postcss-emoji/issues"
+  },
+  "homepage": "https://github.com/thuongvu/postcss-emoji",
+  "dependencies": {
+    "postcss": "^5.0.9",
+    "postcss-selector-parser": "^1.3.0"
+  },
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "gulp": "^3.9.0",
+    "gulp-eslint": "^1.0.0",
+    "gulp-mocha": "^2.1.3",
+    "tape": "^4.2.2"
+  },
+  "scripts": {
+    "test": "gulp"
+  }
+}

@@ -1,0 +1,6 @@
+.tool:first-child {
+	color: blue;
+}
+.tool[attribute="foo"] {
+	color: pink;
+}

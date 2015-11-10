@@ -1,0 +1,6 @@
+.widget+.tool {
+	width: 11px;
+}
+.tool * {
+	color: orange;
+}

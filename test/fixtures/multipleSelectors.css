@@ -1,0 +1,9 @@
+.widget .tool {
+	transition: 1s;
+}
+.widget.tool {
+	transition: 1s;
+}
+.widget, .tool {
+	transition: 1s;
+}

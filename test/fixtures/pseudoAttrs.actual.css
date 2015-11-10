@@ -1,0 +1,6 @@
+.🎭:first-child {
+	color: blue;
+}
+.🎭[attribute=🎯] {
+	color: pink;
+}
